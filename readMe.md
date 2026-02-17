@@ -64,9 +64,6 @@ stellar contract build
 ```bash
 # Run all tests
 make test
-
-# Or directly with cargo
-cargo test --features testutils
 ```
 
 ### Format & Lint
@@ -96,30 +93,6 @@ cargo check --all
 make lint
 ```
 
-## Development
-
-For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-### Running Locally
-
-1. Build the contracts:
-
-   ```bash
-   make build
-   ```
-
-2. Run tests:
-
-   ```bash
-   make test
-   ```
-
-3. Deploy to local network:
-
-   ```bash
-   make deploy-local
-   ```
-
 ## Architecture
 
 Ahjoor's smart contracts handle:
@@ -146,10 +119,6 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 - Code style and standards
 - Testing requirements
 - Submitting pull requests
-
-## Security
-
-Security is paramount for Ahjoor. If you discover a security vulnerability, please email <ahjoorxmr@gmail.com> instead of using the issue tracker.
 
 ## Resources
 
