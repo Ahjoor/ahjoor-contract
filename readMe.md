@@ -125,3 +125,7 @@ We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for 
 - [Stellar Documentation](https://developers.stellar.org/)
 - [Soroban Smart Contracts](https://soroban.stellar.org/)
 - [Stellar CLI Reference](https://developers.stellar.org/docs/tools/developer-tools)
+
+  ## Community
+
+- [Telegram Group Chat](https://t.me/ahjoor)
